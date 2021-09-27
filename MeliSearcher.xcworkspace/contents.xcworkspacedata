@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:UIRoutes/UIRoutes.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Storage/Storage.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Configurator/Configurator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MSServices/MSServices.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DataProviders/DataProviders.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MSUIKit/MSUIKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Models/Models.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Presenters/Presenters.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:MeliSearcher/MeliSearcher.xcodeproj">
+   </FileRef>
+</Workspace>
